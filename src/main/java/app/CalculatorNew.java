@@ -1,5 +1,7 @@
 package app;
 
+//public class B
+
 public class CalculatorNew {
 
 	public int substract(int i, int j)
